@@ -13,7 +13,7 @@ body{
     text-align: center;
     margin: 0 auto;
     padding: 0 auto;
-    font-size: 40px;
+    font-size: 32px;
 
 }
 .center{
@@ -26,7 +26,7 @@ body{
     margin-top:200px;
 }
 .disc{
-    font-size: 20px;
+    font-size: 16px;
 }
 .card{
     margin-top: 20px;
