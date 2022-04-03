@@ -1,0 +1,47 @@
+body{
+    background:linear-gradient(135deg, #c8a3ed 0%,#7367F0 100%);
+    height: 100vh;
+
+
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    color: white;
+   
+}
+.titles{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-size: 40px;
+
+}
+.center{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+
+}
+.margins{
+    margin-top:200px;
+}
+.disc{
+    font-size: 20px;
+}
+.card{
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    border:10px #7e58a3 solid;
+    background-color: rgba(255, 255, 255, 0.501);
+    color: #7e58a3;
+}
+.btn-join{
+    border-radius: 20px;
+    border:5px #7e58a3 solid;
+    background-color: rgba(255, 255, 255, 0.501);
+    color: rgb(72, 87, 116);
+    font-weight: 900;
+    padding: 10px 20px;
+    
+}
